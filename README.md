@@ -6,8 +6,8 @@ a simple math game for kids
 math-game is a simple math game for kids to help make memorizing math facts fun.
 
 It gives the user 10 questions that are each randomly chosen to be either
-addition or subtraction. The upper limit is bound at 10 in the beggining. 
-For subtraction question it always subtracts the smaller number from the larger so
+addition or subtraction. The upper limit for the numbers used in the questions is bound at 10 in the beginning. 
+For subtraction questions it always subtracts the smaller number from the larger so
 that the user doesn't need to understand negative numbers. 
 
 After 10 questions are answered it give a yes or no prompt to play again. 
